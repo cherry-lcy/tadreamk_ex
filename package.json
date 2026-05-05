@@ -2,7 +2,7 @@
   "name": "tadreamk_ex",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/cherry-lcy/tadreamk_ex",
+  "homepage": "https://cherry-lcy.github.io/tadreamk_ex",
   "type": "module",
   "scripts": {
     "dev": "vite",
