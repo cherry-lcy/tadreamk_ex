@@ -7,7 +7,7 @@
 
 ## ✨ Live Demo
 
-[Click here for live demo](https://your-demo-link.com) *(Add your deployment link)*
+[Click here for live demo](https://cherry-lcy.github.io/tadreamk_ex)
 
 ## 📋 Table of Contents
 
